@@ -1,2 +1,3 @@
-# spring-security-crypto-example
-Spring Security Crypto Example
+# Spring Security Crypto Example
+
+In order to run this example you must install the JCE Unlimited for Java
